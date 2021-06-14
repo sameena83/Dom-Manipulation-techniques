@@ -1,0 +1,50 @@
+.container{
+    background-color:gray;
+    max-width: 400px;
+    margin: 100px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 1px solid steelblue;
+    padding: 30px;
+    border-radius: 5px;
+}
+.btn {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left:0%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width:100%;
+  }
+  #name{
+      width: 99%;
+  }
+  #email{
+      width:99%;
+  }
+
+  .head{
+      background:gray;
+      align-content: center;
+      max-width: 500px;
+      min-height: 10px;
+      margin-left: 9%;
+      padding-left:20%;
+}
+.items{
+  max-width:100%;
+  min-height: 10px;
+  background-color:rgb(199, 189, 189);
+}
+.msg{
+    background:red;
+    font-size:20px;
+}
+
+
+  
